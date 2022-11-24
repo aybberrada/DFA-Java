@@ -2,10 +2,10 @@ package myPackage;
 
 public class DFA {
 	
-	private char[] states = null;
-    private char[] symbols = null;
-    private char[] final_states = null;
-    private char[][] transitions = null;
+    	private char[] states = null;
+    	private char[] symbols = null;
+    	private char[] final_states = null;
+    	private char[][] transitions = null;
     
 	public DFA(char[] states, char[] symbols, char[] final_states, char[][] transitions) {
 		super();
